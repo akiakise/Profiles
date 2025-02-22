@@ -1,6 +1,10 @@
 payload:
+    # cdn
     - download-cdn.jetbrains.com
+    # clash 后台
     - clash.razord.top
     - yacd.haishan.me
     - nexconvert.com
+    # ip 与时间
     - ip.sb
+    - time.android.com
