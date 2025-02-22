@@ -1,2 +1,3 @@
 payload:
-    - dockerstatic.com
+  - dockerstatic.com
+  - fonts.googleapis.com
