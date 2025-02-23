@@ -1,6 +1,9 @@
 payload:
+  # niconico 广告
   - ads.nicovideo.jp
+  # mumu 模拟器广告
   - +.mumu.nie.netease.com
+  # postman 更新
   - +.dl.pstmn.io
   - +.sync-v3.getpostman.com
   - +.getpostman.com
